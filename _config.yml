@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
+title: Liujun's Blog
+description: Stack Problems I met
 author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, actually in Python and Django.
-disqus_shortname: stackproblems
+github: https://github.com/dengz
+about: I am an iOS developer. Currently working on Template developing for iOS app.
+disqus_shortname: iostemplate
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -16,18 +16,14 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-skype
-      link: "#"
+      link: "https://www.facebook.com/deng.liujun"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/quafferences"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://cn.linkedin.com/in/liujun-deng-328a672b"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: quafferences
   fb_appid: 1749788565247320
 
 urls:
@@ -36,11 +32,11 @@ urls:
     - text: Projects
       url: /projects/
     - text: Github
-      url: https://github.com/agusmakmun
+      url: https://github.com/dengz
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https//liujun.me"
 baseurl: ""
 paginate: 20
 per_page: 20
