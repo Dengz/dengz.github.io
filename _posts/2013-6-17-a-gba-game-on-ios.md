@@ -7,7 +7,7 @@ title: A LITTLE THING
 
 首先, 上一个真相吧
 
-![晓月圆舞曲](https://raw.githubusercontent.com/Dengz/dengz.github.io/master/images/IMG_3244-300x169.png)
+![晓月圆舞曲](https://github.com/Dengz/dengz.github.io/raw/master/static/img/IMG_3244-300x169.png)
 
 这次把这个游戏弄到iPhone上, 在iPhone4s和iPhone5上运行得还算流畅, iPhone4上略卡,游戏音效和帧数有关, 所以iPhone4以及以下的就别戴耳机玩了吧-__-#
 
