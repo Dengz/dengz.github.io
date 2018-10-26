@@ -18,7 +18,7 @@ chemical 化学的
 
 sauerkraut 泡菜
 
-organic maket 有机市场
+organic market 有机市场
 
 Do you have any tips for that?  对此你有没有什么建议？
 ```
