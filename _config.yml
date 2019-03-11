@@ -1,9 +1,9 @@
 title: Liujun's Blog
-description: Stack Problems I met
+description: This is a engineer's blog. Some life and tech tips wil be logged here. 
 author: Deng Liujun
 github: https://github.com/dengz
-about: I am an iOS developer. Currently working on Template developing for iOS app.
-disqus_shortname: iostemplate
+about: I am an front-end engineer now. Currently working in alipay.com.
+disqus_shortname: iOS, bff, software, user expierence.
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
